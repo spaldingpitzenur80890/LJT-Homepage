@@ -1,0 +1,13 @@
+---
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
+collection: publications
+category: preprints
+permalink: /publication/2025-01-01-vlm-chart-understanding
+excerpt: 'We study the perception bottleneck of vision-language models for chart understanding.'
+date: 2025-01-01
+venue: 'arXiv preprint'
+paperurl: ''
+citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." <i>arXiv preprint</i>.'
+---
+
+This paper investigates the perception bottleneck of vision-language models in chart understanding, together with a dedicated code repository (Vision4Chart).
